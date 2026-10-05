@@ -84,3 +84,8 @@ If your model gets stuck predicting only one letter (like "T" or "A"):
 ## 🌍 Social Impact & Future Scope
 * **Impact:** Designed to bridge communication gaps in classrooms, public kiosks, and daily interactions for hearing-impaired individuals.
 * **Future Scope:** Expanding the system from individual letter recognition to full-sentence translation and integrating mobile/web platforms.
+
+---
+
+## 📝 License
+This project is open-source and available under the [MIT License](LICENSE).
